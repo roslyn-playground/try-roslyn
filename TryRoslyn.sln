@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedCS", "GettingStartedCS\GettingStartedCS.csproj", "{555CD2F0-E497-44BF-8DF3-2E2324A16823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSyntaxWalker", "CSharpSyntaxWalker\CSharpSyntaxWalker.csproj", "{7B15673B-238F-4EAF-96B6-E1A81A13AF35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{555CD2F0-E497-44BF-8DF3-2E2324A16823}.Debug|x86.Build.0 = Debug|x86
 		{555CD2F0-E497-44BF-8DF3-2E2324A16823}.Release|x86.ActiveCfg = Release|x86
 		{555CD2F0-E497-44BF-8DF3-2E2324A16823}.Release|x86.Build.0 = Release|x86
+		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Debug|x86.ActiveCfg = Debug|x86
+		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Debug|x86.Build.0 = Debug|x86
+		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Release|x86.ActiveCfg = Release|x86
+		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
