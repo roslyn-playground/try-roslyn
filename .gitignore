@@ -1,0 +1,7 @@
+.vs
+tools
+bin
+obj
+.DS_Store
+*~*
+packages
