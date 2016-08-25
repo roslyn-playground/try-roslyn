@@ -7,3 +7,4 @@
 
 - Semantic Analysis
 - Syntax Transformation
+- Microsoft.CodeAnalysis.CSharp.Scripting

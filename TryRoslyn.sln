@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedCS", "Getting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSyntaxWalker", "CSharpSyntaxWalker\CSharpSyntaxWalker.csproj", "{7B15673B-238F-4EAF-96B6-E1A81A13AF35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticsCS", "SemanticsCS\SemanticsCS.csproj", "{573DC0C3-E74A-4B9B-A467-73B093034117}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Debug|x86.Build.0 = Debug|x86
 		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Release|x86.ActiveCfg = Release|x86
 		{7B15673B-238F-4EAF-96B6-E1A81A13AF35}.Release|x86.Build.0 = Release|x86
+		{573DC0C3-E74A-4B9B-A467-73B093034117}.Debug|x86.ActiveCfg = Debug|x86
+		{573DC0C3-E74A-4B9B-A467-73B093034117}.Debug|x86.Build.0 = Debug|x86
+		{573DC0C3-E74A-4B9B-A467-73B093034117}.Release|x86.ActiveCfg = Release|x86
+		{573DC0C3-E74A-4B9B-A467-73B093034117}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
