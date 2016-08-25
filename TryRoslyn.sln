@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSyntaxWalker", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticsCS", "SemanticsCS\SemanticsCS.csproj", "{573DC0C3-E74A-4B9B-A467-73B093034117}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionCS", "ConstructionCS\ConstructionCS.csproj", "{547D99CF-286E-4293-9C39-F7BD5F0850B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformationCS", "TransformationCS\TransformationCS.csproj", "{465D2808-9EF8-460C-8843-6B9620497D73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +31,14 @@ Global
 		{573DC0C3-E74A-4B9B-A467-73B093034117}.Debug|x86.Build.0 = Debug|x86
 		{573DC0C3-E74A-4B9B-A467-73B093034117}.Release|x86.ActiveCfg = Release|x86
 		{573DC0C3-E74A-4B9B-A467-73B093034117}.Release|x86.Build.0 = Release|x86
+		{547D99CF-286E-4293-9C39-F7BD5F0850B1}.Debug|x86.ActiveCfg = Debug|x86
+		{547D99CF-286E-4293-9C39-F7BD5F0850B1}.Debug|x86.Build.0 = Debug|x86
+		{547D99CF-286E-4293-9C39-F7BD5F0850B1}.Release|x86.ActiveCfg = Release|x86
+		{547D99CF-286E-4293-9C39-F7BD5F0850B1}.Release|x86.Build.0 = Release|x86
+		{465D2808-9EF8-460C-8843-6B9620497D73}.Debug|x86.ActiveCfg = Debug|x86
+		{465D2808-9EF8-460C-8843-6B9620497D73}.Debug|x86.Build.0 = Debug|x86
+		{465D2808-9EF8-460C-8843-6B9620497D73}.Release|x86.ActiveCfg = Release|x86
+		{465D2808-9EF8-460C-8843-6B9620497D73}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

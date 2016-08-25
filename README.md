@@ -4,7 +4,7 @@
     - [x] Manual Traversal
     - [x] Query Methods
     - [x] Syntax Walkers
-
 - [x] Semantic Analysis
-- [ ] Syntax Transformation
+- [x] Syntax Transformation
+- [ ] Writing Custom Analyzers and Code Fixes
 - [ ] Microsoft.CodeAnalysis.CSharp.Scripting
