@@ -22,7 +22,7 @@ https://joshvarty.wordpress.com/learn-roslyn-now
 - [x] Part 4: CSharpSyntaxWalker
 - [ ] Part 5: CSharpSyntaxRewriter
 - [ ] Part 6: Working with Workspaces
-- [ ] Part 7: Introducing the Semantic Model
+- [x] Part 7: Introducing the Semantic Model
 - [ ] Part 8: Data Flow Analysis
 - [ ] Part 9: Control Flow Analysis
 - [ ] Part 10: Introduction to Analyzers

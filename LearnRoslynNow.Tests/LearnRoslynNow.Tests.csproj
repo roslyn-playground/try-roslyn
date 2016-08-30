@@ -148,6 +148,7 @@
     <Compile Include="Part2AnalyzingSyntaxTreeWithLinq.cs" />
     <Compile Include="Part3SyntaxNodesAndSyntaxTokens.cs" />
     <Compile Include="Part4CSharpSyntaxWalker.cs" />
+    <Compile Include="Part7IntroducingTheSemanticModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
